@@ -11,11 +11,11 @@
 
 <p align="center">
 <br>
- <a href="https://rebrand.ly/technicalwhitehat"><img title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://www.facebook.com/people/Mrwhitehathacker-India/pfbid0egtqndi1gHovGK4JZe12BkSfk7SwMgcifs1DQ5vVV5CR8Pwa5n4SrrBtKUedxrsGl/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://www.instagram.com/technicalwhitehat/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://t.me/technicalwhitehat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="mailto:mrwhitehath@gmail.com?subject=Hello%20Bhai"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+ <a href="https://www.youtube.com/@CYB3R__KING"><img title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.facebook.com/people/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/CYB3RK_ING/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://t.me/CYB3R_KING"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="mailto:cyb3rking0009@gmail.com?subject=Hello%20Bhai"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <br>
