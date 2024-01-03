@@ -29,7 +29,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Running%20Light%20Skin%20Tone.png" alt="Person Running Light Skin Tone" width="20" height="20" /> 2024 Goals: Contribute to Open Source projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="20" height="20" /> Ask me about anything, I am happy to help. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="20" height="20" /> How to reach me: 
-    <a href="https://bit.ly/3RzjdHX"> From my youtube channel and videos description.</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="20" height="20" />
+    <a href="https://www.youtube.com/@CYB3R__KING"> From my youtube channel and videos description.</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> I try to: Create something new and useful. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /> Fun fact: I love connecting with different people. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Tuxedo%20Medium-Light%20Skin%20Tone.png" alt="Man in Tuxedo Medium-Light Skin Tone" width="20" height="20" />
 </div>
@@ -41,6 +41,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyb3rkingx" alt="cyb3rkingx" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://t.me/CYB3R_KING"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <p align="left">
 </p>
 
@@ -50,4 +51,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyb3rkingx&show_icons=true&locale=en&layout=compact" alt="cyb3rkingx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyb3rkingx&show_icons=true&locale=en" alt="cyb3rkingx" /></p>
+
+### thank you
 
