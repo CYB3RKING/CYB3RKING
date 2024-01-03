@@ -14,7 +14,7 @@
  <a href="https://www.youtube.com/@CYB3R__KING"><img title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://www.facebook.com/people/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://www.instagram.com/CYB3RK_ING/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://t.me/CYB3R_KING"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/CYB3R_KING"><img title="Telegram" src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram"></a>
 <a href="mailto:cyb3rking0009@gmail.com?subject=Hello%20Bhai"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -23,16 +23,17 @@
 <img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
 # I am a indian ethical hacker & Youtuber
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" alt="Relieved Face" width="20" height="20" /> I’m currently working on my own channel. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="20" height="20" /> I’m currently learning everything. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Standing%20Light%20Skin%20Tone.png" alt="Man Standing Light Skin Tone" width="20" height="20" /> I’m looking to collaborate with other Developers. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Juggling%20Medium-Light%20Skin%20Tone.png" alt="Person Juggling Medium-Light Skin Tone" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Running%20Light%20Skin%20Tone.png" alt="Person Running Light Skin Tone" width="20" height="20" /> 2024 Goals: Contribute to Open Source projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers.png" alt="Crossed Fingers" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="20" height="20" /> Ask me about anything, I am happy to help. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="20" height="20" /> How to reach me: 
-    <a href="https://www.youtube.com/@CYB3R__KING"> From my youtube channel and videos description.</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" alt="Two Hearts" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="20" height="20" /> I try to: Create something new and useful. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Blowing%20a%20Kiss.png" alt="Face Blowing a Kiss" width="20" height="20" />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /> Fun fact: I love connecting with different people. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20in%20Tuxedo%20Medium-Light%20Skin%20Tone.png" alt="Man in Tuxedo Medium-Light Skin Tone" width="20" height="20" />
-</div>
+### Hey there! 👋
+
+- 🔭 I'm immersed in crafting content for my own channel.
+- 🌱 Currently on a learning spree, diving into everything I can.
+- 👯 Open to collaborating with fellow developers on exciting projects.
+- 🚀 2024 Goals: Contributing significantly to Open Source projects.
+- 📬 Reach me: [Check out my YouTube channel and find me in the video descriptions.](https://www.youtube.com/@CYB3R__KIN)
+- 💣 Constantly striving to create something novel and practical.
+- 🎉 Fun fact: I thrive on building connections with diverse and interesting individuals. 😘
+
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
