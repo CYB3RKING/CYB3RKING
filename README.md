@@ -1,6 +1,6 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/@technicalwhitehat)
  
-# <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="50" height="50"/>&nbsp; HELLO GUY'S, I'M CYB3R KING &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50"/> </div>
+# <div align="center"><img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" alt="Person Raising Hand" width="70" height="50"/>&nbsp; HELLO GUY'S, I'M CYB3R KING &nbsp; <img src="https://user-images.githubusercontent.com/42608897/117810182-afcbf400-b27c-11eb-85fa-69c3b2a23921.gif" alt="Technologist" width="70" height="50"/> </div>
 
 
 
